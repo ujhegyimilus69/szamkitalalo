@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "szamkitalalo_10_22/1.0.0": {
+        "runtime": {
+          "szamkitalalo_10_22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "szamkitalalo_10_22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

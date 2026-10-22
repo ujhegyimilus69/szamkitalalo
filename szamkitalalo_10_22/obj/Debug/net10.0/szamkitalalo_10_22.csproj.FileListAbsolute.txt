@@ -1,0 +1,14 @@
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\bin\Debug\net10.0\szamkitalalo_10_22.exe
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\bin\Debug\net10.0\szamkitalalo_10_22.deps.json
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\bin\Debug\net10.0\szamkitalalo_10_22.runtimeconfig.json
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\bin\Debug\net10.0\szamkitalalo_10_22.dll
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\bin\Debug\net10.0\szamkitalalo_10_22.pdb
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.AssemblyInfoInputs.cache
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.AssemblyInfo.cs
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.csproj.CoreCompileInputs.cache
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.dll
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\refint\szamkitalalo_10_22.dll
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.pdb
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\szamkitalalo_10_22.genruntimeconfig.cache
+C:\Users\UjhegyiMilan\Desktop\asztaliprogi\szamkitalalo_10_22\obj\Debug\net10.0\ref\szamkitalalo_10_22.dll
