@@ -3,20 +3,40 @@ using System.Reflection.Metadata.Ecma335;
 
 const int Szelesseg = 35;
 
-Console.ForegroundColor = ConsoleColor.Cyan;
 
-Konzol.Cim("Számkítaláló");
+bool kilep = False
 
-Konzol.menupont($" [1] Játék");
+while(kilep != True)
+{
+    Console.ForegroundColor = ConsoleColor.Cyan;
 
-Konzol.menupont($" [2] Kilépés");
-Console.WriteLine("Hanyadik menüpont?");
-int menupont = Convert.ToInt32(Console.ReadLine());
+    Konzol.Cim("Számkítaláló");
+    Konzol.menupont($" [1] Játék");
+    Konzol.menupont($" [2] Kilépés");
+    Console.WriteLine("Hanyadik menüpont?");
+    if (!int.TryParse(Console.ReadLine(), out int menupont))
+    {
+        Console.WriteLine("Számot írj be!");
+        continue;
+    }
+    case 1:
+    jatek();
+    break;
 
-int szam = Random.Shared.Next(1, 101);
-int kulonbseg = 100 - szam;
-int talalat = 0;
+    case 2:
+    Console.WriteLine("Kilépés...")
+    kilep = True
+    break;
+    
+    default:
+        console.WriteLine("Nincs ilyen menüpont.")
+        break;
 
+    int szam = Random.Shared.Next(1, 101);
+    int probalkozas = 0;
+    int talalat = 0;
+
+}
 
 do 
 {
